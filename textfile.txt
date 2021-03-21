@@ -1,2 +1,3 @@
 //เพิ่มข้อมูลจาก github
 code github
+//ทำใน local เครื่องคอม
